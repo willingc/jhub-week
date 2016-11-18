@@ -53,8 +53,17 @@
 
 *TODO - screenshot, notebook, or site page that shares metrics on JupyterHub development*
 
+
+### Mailing List activity
+
+*TODO - add summary and link to any important or ongoing discussions on JupyterHub*
+
+- jupyter mailing list
+- jupyter in education mailing list
+
 ### Upcoming conference talks and workshops on JupyterHub
 
 *TODO - add talks as needed*
+
 
 
