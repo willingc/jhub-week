@@ -1,14 +1,14 @@
-## 2016-11-18: JupyterHub - This Week
+## { date }: JupyterHub - This Week
 
 ### News items
 
 *add top five news items of the week*
 
-- 
-- 
-- 
-- 
-- 
+- *item*
+- *item*
+- *item*
+- *item*
+- *item*
 
 ### Projects and [Roadmap](https://github.com/jupyter/roadmap/blob/master/jupyterhub.md)
 
