@@ -4,6 +4,7 @@ Weekly update on JupyterHub activity
 
 ## Reports
 
+- [2016-11-29](https://github.com/willingc/jhub-week/blob/master/2016-11-29-jhub.md)
 - [2016-11-18](https://github.com/willingc/jhub-week/blob/master/2016-11-18-jhub.md)
 
 
