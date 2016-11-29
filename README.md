@@ -5,7 +5,7 @@ Weekly update on JupyterHub activity | [Roadmap](https://github.com/jupyter/road
 ## News (updated weekly)
 
 - JupyterHub: Release JupyterHub 0.7 later this week
-- JupyterHub: Merge jupyterhub/jupyterhub#886 PR by Yuvi Panda which adds traitlet documentation/help messages (merge before 0.7 release)
+- JupyterHub: Merge [jupyterhub/jupyterhub#886](https://github.com/jupyterhub/jupyterhub/pull/886) PR by Yuvi Panda which adds traitlet documentation/help messages (merge before 0.7 release)
 - hubshare: Merged spec https://github.com/jupyterhub/hubshare/pull/2
 
 - nbdime: Release 0.1 later this week prior to JupyterDay Paris
