@@ -1,6 +1,5 @@
 *.gem
 *.swp
-*~
 .DS_Store
 Gemfile.lock
 _site
