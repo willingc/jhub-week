@@ -7,7 +7,14 @@ title: JupyterHub
 
 Weekly updates on JupyterHub activity [Roadmap](https://github.com/jupyter/roadmap/blob/master/jupyterhub.md)
 
-## News (this week)
+## News (this week 12-13-16)
+
+- JupyterHub: Responding to questions and issues on new release [**JupyterHub 0.7**](https://github.com/jupyterhub/jupyterhub/releases/tag/0.7.0) [[Changelog]](https://jupyterhub.readthedocs.io/en/latest/changelog.html#)
+- [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching): Updating Ansible scripts to be more modular and better documented
+- JupyterDay Paris went well
+- New mailing list: Jupyter in HPC
+
+### News (last week 12-05-16)
 
 - [JupyterHub][]: Released [**JupyterHub 0.7**](https://github.com/jupyterhub/jupyterhub/releases/tag/0.7.0) [Changelog](https://jupyterhub.readthedocs.io/en/latest/changelog.html#)
 - [jupyterhub-deploy-docker][]: Updating with JupyterHub 0.7.0
@@ -17,18 +24,9 @@ Weekly updates on JupyterHub activity [Roadmap](https://github.com/jupyter/roadm
 - [nbdime][]: Released to **Beta 0.1.0b1** today for JupyterDay Paris [Docs](http://nbdime.readthedocs.io/en/latest/)
 - [nbdime][]: Continuing work toward 0.2 release
 
-### News (last week 11-29-16)
-
-- [JupyterHub][]: Release JupyterHub 0.7 later this week
-- [JupyterHub][]: Merge [jupyterhub/jupyterhub#886](https://github.com/jupyterhub/jupyterhub/pull/886)
-  PR by Yuvi Panda which adds traitlet documentation/help messages (merge before 0.7 release)
-- [hubshare][]: Merged spec https://github.com/jupyterhub/hubshare/pull/2
-
-- [nbdime][]: Release 0.1 later this week prior to JupyterDay Paris
-- [nbdime][]: Completing doc work and screenshots for release
-
 ## Reports
 
+- [2016-12-13](https://github.com/willingc/jhub-week/blob/master/2016-12-13-jhub.md)
 - [2016-12-05](https://github.com/willingc/jhub-week/blob/master/2016-12-05-jhub.md)
 - [2016-11-29](https://github.com/willingc/jhub-week/blob/master/2016-11-29-jhub.md)
 - [2016-11-18](https://github.com/willingc/jhub-week/blob/master/2016-11-18-jhub.md)
