@@ -8,12 +8,12 @@ Weekly updates on JupyterHub activity [Roadmap](https://github.com/jupyter/roadm
 
 ## News (this week 12-20-16)
 
-- JupyterHub: Responding to questions and issues on new release [**JupyterHub 0.7**](https://github.com/jupyterhub/jupyterhub/releases/tag/0.7.0) [[Changelog]](https://jupyterhub.readthedocs.io/en/latest/changelog.html#)
-- [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching): Updating Ansible scripts to be more modular and better documented
-- JupyterDay Paris went well
-- New mailing list: Jupyter in HPC
+- Working on compatibility fixes for DockerSpawner and 0.7
+- Working on updating and testing [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching)
+- Updating travis to cover Python 3.6
+- Review and fix jupyterhub doc build failure
 
-- [nbdime][]: 
+- [nbdime][]: Released nbdime 0.1
 
 ### News (last week 12-13-16)
 
